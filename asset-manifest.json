@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expense-app-react/static/css/main.7a0eac17.chunk.css",
+    "main.js": "/expense-app-react/static/js/main.ceff98f2.chunk.js",
+    "main.js.map": "/expense-app-react/static/js/main.ceff98f2.chunk.js.map",
+    "runtime-main.js": "/expense-app-react/static/js/runtime-main.4ef0df35.js",
+    "runtime-main.js.map": "/expense-app-react/static/js/runtime-main.4ef0df35.js.map",
+    "static/js/2.5fdd3c66.chunk.js": "/expense-app-react/static/js/2.5fdd3c66.chunk.js",
+    "static/js/2.5fdd3c66.chunk.js.map": "/expense-app-react/static/js/2.5fdd3c66.chunk.js.map",
+    "index.html": "/expense-app-react/index.html",
+    "static/css/main.7a0eac17.chunk.css.map": "/expense-app-react/static/css/main.7a0eac17.chunk.css.map",
+    "static/js/2.5fdd3c66.chunk.js.LICENSE.txt": "/expense-app-react/static/js/2.5fdd3c66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef0df35.js",
+    "static/js/2.5fdd3c66.chunk.js",
+    "static/css/main.7a0eac17.chunk.css",
+    "static/js/main.ceff98f2.chunk.js"
+  ]
+}
